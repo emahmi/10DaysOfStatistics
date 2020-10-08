@@ -1,0 +1,7 @@
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 0 - Mean, Median, and Mode\bin\Debug\Day 0 - Mean, Median, and Mode.exe.config
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 0 - Mean, Median, and Mode\bin\Debug\Day 0 - Mean, Median, and Mode.exe
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 0 - Mean, Median, and Mode\bin\Debug\Day 0 - Mean, Median, and Mode.pdb
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 0 - Mean, Median, and Mode\obj\Debug\Day 0 - Mean, Median, and Mode.csprojAssemblyReference.cache
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 0 - Mean, Median, and Mode\obj\Debug\Day 0 - Mean, Median, and Mode.csproj.CoreCompileInputs.cache
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 0 - Mean, Median, and Mode\obj\Debug\Day 0 - Mean, Median, and Mode.exe
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 0 - Mean, Median, and Mode\obj\Debug\Day 0 - Mean, Median, and Mode.pdb

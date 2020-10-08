@@ -7,34 +7,34 @@ namespace Day_0___Weighted_Mean
         static void Main(string[] args)
         {
             double sum = 0;
-            double weight = 0.0;
+            double calculatedWeight = 0;
 
             var size = Convert.ToInt32(Console.ReadLine());
 
-            var stringArray1 = Console.ReadLine().Split(' ');
-            var intArray1 = new double[100];
+            var valueStringArray = Console.ReadLine().Split(' ');
+            var valueIntArray = new double[100];
 
 
 
             for (var i = 0; i < size; i++)
             {
-                intArray1[i] = double.Parse(stringArray1[i]);
+                valueIntArray[i] = double.Parse(valueStringArray[i]);
             }
 
-            var stringArray2 = Console.ReadLine().Split(' ');
-            var intArray2 = new double[100];
+            var weightStringArray = Console.ReadLine().Split(' ');
+            var weightIntArray = new double[100];
             for (var j = 0; j < size; j++)
             {
-                intArray2[j] = double.Parse(stringArray2[j]);
+                weightIntArray[j] = double.Parse(weightStringArray[j]);
             }
 
             for (var k = 0; k < size; k++)
             {
-                weight = (double)(weight + intArray1[k] * intArray2[k]);
-                sum = (double)(sum + intArray2[k]);
+                calculatedWeight = (double)(calculatedWeight + valueIntArray[k] * weightIntArray[k]);
+                sum = (double)(sum + weightIntArray[k]);
             }
 
-            var weightedMean = weight / sum;
+            var weightedMean = calculatedWeight / sum;
             Console.WriteLine(weightedMean.ToString("0.0"));
 
         }
