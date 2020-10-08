@@ -1,0 +1,7 @@
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 0 - Weighted Mean\bin\Debug\Day 0 - Weighted Mean.exe.config
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 0 - Weighted Mean\bin\Debug\Day 0 - Weighted Mean.exe
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 0 - Weighted Mean\bin\Debug\Day 0 - Weighted Mean.pdb
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 0 - Weighted Mean\obj\Debug\Day 0 - Weighted Mean.csprojAssemblyReference.cache
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 0 - Weighted Mean\obj\Debug\Day 0 - Weighted Mean.csproj.CoreCompileInputs.cache
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 0 - Weighted Mean\obj\Debug\Day 0 - Weighted Mean.exe
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 0 - Weighted Mean\obj\Debug\Day 0 - Weighted Mean.pdb
