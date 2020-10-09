@@ -1,0 +1,7 @@
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 1 - Quartiles\bin\Debug\Day 1 - Quartiles.exe.config
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 1 - Quartiles\bin\Debug\Day 1 - Quartiles.exe
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 1 - Quartiles\bin\Debug\Day 1 - Quartiles.pdb
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 1 - Quartiles\obj\Debug\Day 1 - Quartiles.csprojAssemblyReference.cache
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 1 - Quartiles\obj\Debug\Day 1 - Quartiles.csproj.CoreCompileInputs.cache
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 1 - Quartiles\obj\Debug\Day 1 - Quartiles.exe
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 1 - Quartiles\obj\Debug\Day 1 - Quartiles.pdb
