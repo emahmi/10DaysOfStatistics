@@ -1,0 +1,7 @@
+E:\BACKUP\OneDrive-Backup\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 1 - Standard Deviation\bin\Debug\Day 1 - Standard Deviation.exe.config
+E:\BACKUP\OneDrive-Backup\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 1 - Standard Deviation\bin\Debug\Day 1 - Standard Deviation.exe
+E:\BACKUP\OneDrive-Backup\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 1 - Standard Deviation\bin\Debug\Day 1 - Standard Deviation.pdb
+E:\BACKUP\OneDrive-Backup\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 1 - Standard Deviation\obj\Debug\Day 1 - Standard Deviation.csprojAssemblyReference.cache
+E:\BACKUP\OneDrive-Backup\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 1 - Standard Deviation\obj\Debug\Day 1 - Standard Deviation.csproj.CoreCompileInputs.cache
+E:\BACKUP\OneDrive-Backup\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 1 - Standard Deviation\obj\Debug\Day 1 - Standard Deviation.exe
+E:\BACKUP\OneDrive-Backup\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 1 - Standard Deviation\obj\Debug\Day 1 - Standard Deviation.pdb
