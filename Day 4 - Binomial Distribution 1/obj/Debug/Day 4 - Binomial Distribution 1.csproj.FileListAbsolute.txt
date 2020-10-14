@@ -1,0 +1,7 @@
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 4 - Binomial Distribution 1\bin\Debug\Day 4 - Binomial Distribution 1.exe.config
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 4 - Binomial Distribution 1\bin\Debug\Day 4 - Binomial Distribution 1.exe
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 4 - Binomial Distribution 1\bin\Debug\Day 4 - Binomial Distribution 1.pdb
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 4 - Binomial Distribution 1\obj\Debug\Day 4 - Binomial Distribution 1.csprojAssemblyReference.cache
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 4 - Binomial Distribution 1\obj\Debug\Day 4 - Binomial Distribution 1.csproj.CoreCompileInputs.cache
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 4 - Binomial Distribution 1\obj\Debug\Day 4 - Binomial Distribution 1.exe
+C:\Users\MAC\OneDrive\Algorithms - Practice\HackerRank - 10DaysOfStatistics\Day 4 - Binomial Distribution 1\obj\Debug\Day 4 - Binomial Distribution 1.pdb
